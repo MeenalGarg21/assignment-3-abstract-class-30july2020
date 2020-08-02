@@ -1,0 +1,7 @@
+D:\DotNetConsoleApps\Assigenment Inheritance\InheritanceAbstract\obj\Debug\InheritanceAbstract.csprojAssemblyReference.cache
+D:\DotNetConsoleApps\Assigenment Inheritance\InheritanceAbstract\obj\Debug\InheritanceAbstract.csproj.CoreCompileInputs.cache
+D:\DotNetConsoleApps\Assigenment Inheritance\InheritanceAbstract\bin\Debug\InheritanceAbstract.exe.config
+D:\DotNetConsoleApps\Assigenment Inheritance\InheritanceAbstract\bin\Debug\InheritanceAbstract.exe
+D:\DotNetConsoleApps\Assigenment Inheritance\InheritanceAbstract\bin\Debug\InheritanceAbstract.pdb
+D:\DotNetConsoleApps\Assigenment Inheritance\InheritanceAbstract\obj\Debug\InheritanceAbstract.exe
+D:\DotNetConsoleApps\Assigenment Inheritance\InheritanceAbstract\obj\Debug\InheritanceAbstract.pdb
